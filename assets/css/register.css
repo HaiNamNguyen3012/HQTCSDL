@@ -1,0 +1,8 @@
+body {
+    background-color: #adfbdd;
+}
+
+#registerForm,
+#loginForm {
+    display: none;
+}
